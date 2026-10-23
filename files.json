@@ -1,0 +1,57 @@
+[
+  {
+    "path": "downloads/PetColumnSort-2.0.1.rpk",
+    "bytes": 501541,
+    "sha256": "33f7387b46aa694a629be457baf7a2ef320d1990e3439c6dbef720a3fced5b2f"
+  },
+  {
+    "path": "manifest_v2.json",
+    "bytes": 4774,
+    "sha256": "6424c0f78de0b4f5e3b313ae5e0cd281d37c889a809a715b3a48112abbcedf1e"
+  },
+  {
+    "path": "media/band10-classic-234-rounded.png",
+    "bytes": 90213,
+    "sha256": "1c250c4f31caf854d87cf7bb061ef7388d4620477ecfd0beb73b29f5785d15bc"
+  },
+  {
+    "path": "media/cover.jpg",
+    "bytes": 503317,
+    "sha256": "a8da81809cc1a136a07b7454a46f77671805f0182316d6bacab19bb48f3883ce"
+  },
+  {
+    "path": "media/icon.png",
+    "bytes": 5791,
+    "sha256": "dc01161ec9cda576899152fdac121a3cd4fce420a231bfad8e19923a71e70657"
+  },
+  {
+    "path": "media/pro-endless-9999-rounded.png",
+    "bytes": 105932,
+    "sha256": "a04dea3057ef3e3a5d5124ee979b9f50bb31f81db2dfe79aabe942b86e481584"
+  },
+  {
+    "path": "media/pro-guess-rounded.png",
+    "bytes": 106370,
+    "sha256": "2ac3b6cb21a7e913cc8a74320a78338e275945b62440c79a0017e9c21faec0ac"
+  },
+  {
+    "path": "media/pro-modes-rounded.png",
+    "bytes": 99979,
+    "sha256": "9aba4b7473b1ccb2030b92188ed3f35e7bc935cf7656de50df20fc4c782b5865"
+  },
+  {
+    "path": "media/pro-target-100-rounded.png",
+    "bytes": 110246,
+    "sha256": "e51abc6655c63aee8557d4ceb22ad78c6be714ac00782e1b0fb0543ded86e3fe"
+  },
+  {
+    "path": "media/rw-target-100-rounded.png",
+    "bytes": 136199,
+    "sha256": "a1d7f24cc59848ea1c81fbbf0d821b252a3049ca7de24ad32bceaf72566140c2"
+  },
+  {
+    "path": "详情文案.txt",
+    "bytes": 1974,
+    "sha256": "2d9b8c2118597ef0ebd7dd19577cc3b3fcfa69a46d4bfe30714767e12e05146d"
+  }
+]

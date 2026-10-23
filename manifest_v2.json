@@ -1,0 +1,154 @@
+{
+  "item": {
+    "id": "com.awu.watch.petcolumnsort",
+    "restype": "quick_app",
+    "name": "萌宠归队",
+    "description": "再挪一下，这队就齐了。300关章节挑战后接续无尽归队，100关定点挑战，还有自由猜队与五题连闯。问号、彩色炸弹、同色锁和列限制带来不同组合；另有免费的萌宠营地配套表盘。应用需购买兑换码激活。",
+    "preview": [
+      "media/pro-endless-9999-rounded.png",
+      "media/pro-target-100-rounded.png",
+      "media/pro-guess-rounded.png",
+      "media/pro-modes-rounded.png",
+      "media/band10-classic-234-rounded.png",
+      "media/rw-target-100-rounded.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买兑换码",
+      "url": "https://afdian.com/item/722ed638bce111f18a365254001e7c00",
+      "icon": "shopping-cart"
+    },
+    {
+      "title": "爱发电主页",
+      "url": "https://www.ifdian.net/a/a_wu__",
+      "icon": "house"
+    },
+    {
+      "title": "设备码兑换入口",
+      "url": "https://awuwatch.ccwu.cc/?appId=pet_column_sort",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "2.0.1",
+      "versionCode": 38,
+      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "updatelogs": [
+        {
+          "version": "2.0.1",
+          "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
