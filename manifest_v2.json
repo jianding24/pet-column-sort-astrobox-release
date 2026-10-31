@@ -40,10 +40,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -51,10 +55,14 @@
       ]
     },
     "xmb9p": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -62,10 +70,14 @@
       ]
     },
     "xmb10": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -73,10 +85,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -84,10 +100,14 @@
       ]
     },
     "xmb10p": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -95,10 +115,14 @@
       ]
     },
     "xmrw5": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -106,10 +130,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -117,10 +145,14 @@
       ]
     },
     "xmrw6": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -128,10 +160,14 @@
       ]
     },
     "xmb11": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -139,10 +175,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "2.0.1",
-      "versionCode": 38,
-      "file_name": "downloads/PetColumnSort-2.0.1.rpk",
+      "version": "2.0.2",
+      "versionCode": 46,
+      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
       "updatelogs": [
+        {
+          "version": "2.0.2",
+          "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
+        },
         {
           "version": "2.0.1",
           "content": "加固表盘联动异常隔离、文件写入回调和退出清理，保留既有玩法、界面及进度格式。"
@@ -150,5 +190,14 @@
       ]
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "resource",
+          "id": "979810071001"
+        }
+      ]
+    }
+  }
 }

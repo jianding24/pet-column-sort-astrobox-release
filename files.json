@@ -1,13 +1,23 @@
 [
   {
+    "path": "README.md",
+    "bytes": 726,
+    "sha256": "3b9dd7ad5dc9aaee71f57f3cf9ff3682b010aaa186ebd316210370b5d37b47c4"
+  },
+  {
     "path": "downloads/PetColumnSort-2.0.1.rpk",
     "bytes": 501541,
     "sha256": "33f7387b46aa694a629be457baf7a2ef320d1990e3439c6dbef720a3fced5b2f"
   },
   {
+    "path": "downloads/PetColumnSort-2.0.2.rpk",
+    "bytes": 501703,
+    "sha256": "3f8fa31d7b9983ae7e5ce76fafc441f619d86201087a1b153bb089075e1d1cc2"
+  },
+  {
     "path": "manifest_v2.json",
-    "bytes": 4778,
-    "sha256": "51aeb88f9d28b2a5800d7457f0cf70fe5ce19c18bfbf3ac40a09aea0a93a27f5"
+    "bytes": 6905,
+    "sha256": "d4cd8310425f716176a546b743fc40960f144e4fd8ee3f740163aa20cf7fe6b1"
   },
   {
     "path": "media/band10-classic-234-rounded.png",
@@ -52,6 +62,6 @@
   {
     "path": "详情文案.txt",
     "bytes": 1956,
-    "sha256": "642c92fb242ba71ba4ca378329d32c219f504f97e281e4fec81c814a3b64e920"
+    "sha256": "1b5aba83305c4122e35c79102c4a47f67545e5291e2219b83f29ecc661ed568f"
   }
 ]
