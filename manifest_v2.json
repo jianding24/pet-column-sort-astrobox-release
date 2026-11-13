@@ -40,10 +40,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -55,10 +59,14 @@
       ]
     },
     "xmb9p": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -70,10 +78,14 @@
       ]
     },
     "xmb10": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -85,10 +97,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -100,10 +116,14 @@
       ]
     },
     "xmb10p": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -115,10 +135,14 @@
       ]
     },
     "xmrw5": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -130,10 +154,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -145,10 +173,14 @@
       ]
     },
     "xmrw6": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -160,10 +192,14 @@
       ]
     },
     "xmb11": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
@@ -175,10 +211,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "2.0.2",
-      "versionCode": 46,
-      "file_name": "downloads/PetColumnSort-2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/PetColumnSort-2.0.3.rpk",
+      "versionCode": 47,
       "updatelogs": [
+        {
+          "version": "2.0.3",
+          "content": "宠物猜队新增正确数量变化提示，交换后可看到增加、减少或不变，找线索更直观。"
+        },
         {
           "version": "2.0.2",
           "content": "优化连续游玩的内存占用与运行稳定性，调整宠物猜队结算排版，并加入萌宠营地表盘推荐。"
