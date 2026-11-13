@@ -16,8 +16,8 @@
   },
   {
     "path": "manifest_v2.json",
-    "bytes": 8765,
-    "sha256": "6c97cd2f4038b47b9bff6c9d028da3cc8342b1ef74a256038c70621e36073411"
+    "bytes": 8775,
+    "sha256": "6e9d958f6e42d3fd485336537e39bb60fd072528f49a4e04fa26820dcf02ea07"
   },
   {
     "path": "media/band10-classic-234-rounded.png",
@@ -61,12 +61,12 @@
   },
   {
     "path": "README.md",
-    "bytes": 705,
-    "sha256": "a8dfce2f61b0ec43403f4d1880064805e08ebb13e649f63ecffca366699031fb"
+    "bytes": 780,
+    "sha256": "7d82c89732b5934eea6fb75f71efb9a6eaccf706e5879560c3aa81f814731220"
   },
   {
     "path": "详情文案.txt",
-    "bytes": 2090,
-    "sha256": "af9e6d1a4892763e898d1e25ac4bf89d417c9ac2a60e5d2673694420728bfc16"
+    "bytes": 2094,
+    "sha256": "11a489958082608ed735b1ff221967905f50528e9565783c77bd3a2b32ac7f72"
   }
 ]
